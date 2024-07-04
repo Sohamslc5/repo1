@@ -1,0 +1,2 @@
+Command 1: Creating a new repository.
+=> "git init repo_name"
